@@ -48,7 +48,7 @@
   mergeoptions = --no-edit
 [user]
 	email = julioeq29@gmail.com
-	name = julio quintana
+	name = Julio Quintana
 [filter "lfs"]
 	required = true
 	clean = git-lfs clean -- %f
